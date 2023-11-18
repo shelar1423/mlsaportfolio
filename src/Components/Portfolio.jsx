@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/softwarepic.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop  and laptop";
 
 /**
  * Project list
@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "WeatherApp",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A web application to display weather on users current and given location made with Html,css and Javascript with Weather Api.",
+    url: "https://github.com/shelar1423/weatherapp",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Valorant Agent Selection Screen",
+    description: "Popular Pc game Valorant's agent selection screen using Html,Css and Javascript.",
+    url: "https://github.com/shelar1423/valorant_agentselect_screen",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Earth 3050",
+    description: "A game made from Scratch game engine An offline single player game.",
+    url: "https://github.com/shelar1423/EARTH-3050",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Bhavans App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Bhavan's App , an college application designed and developed for students to access resource materials of the college at ease.",
+    url: "https://github.com/shelar1423/bhavans3.0",
   },
 ];
 
